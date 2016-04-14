@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<question type="truefalse">
+	<text>Est-ce que Mickey est cool ?</text>
+	<answer	fraction="100">
+		<text>True</text>
+		<feedback><text>Trop de la balle ce type !</text></feedback>
+	</answer>
+	<answer	fraction="0">
+		<text>False</text>
+		<feedback><text>...</text></feedback>
+	</answer>
+</question>
